@@ -19,5 +19,3 @@ This is a simple two-player Tic Tac Toe game built using C++ programming fundame
 1. Open the project in Visual Studio.
 2. Build and run the project.
 3. Follow on-screen instructions to play.
-
-## ?? Preview
